@@ -1,0 +1,11 @@
+Model Information:
+* title:	Parkedge_FINAL
+* source:	https://sketchfab.com/3d-models/parkedge-final-7bf059d042d0437483079ef05d6156ec
+* author:	Pixl Foundry (https://sketchfab.com/dinoinglese)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Parkedge_FINAL" (https://sketchfab.com/3d-models/parkedge-final-7bf059d042d0437483079ef05d6156ec) by Pixl Foundry (https://sketchfab.com/dinoinglese) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

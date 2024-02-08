@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Babylon.js House Model Viewer</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        #renderCanvas {
+            width: 70vw; /*70% of the viewport width */
+            height: 70vh; /*70% of the viewport height */
+            touch-action: none; /* Prevent the browser's default touch actions. */
+        }
+        #modelButtons {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 100;
+        }
+        button {
+            padding: 10px;
+            margin: 2px;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="renderCanvas"></canvas>
+ 
+	<button id="toggleRoof">Toggle Roof Visibility</button>
+    <script src="https://cdn.babylonjs.com/babylon.js"></script>
+    <script src="https://cdn.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
+    <script src="housemanager.js"></script>
+</body>
+</html>
+

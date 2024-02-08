@@ -1,0 +1,11 @@
+Model Information:
+* title:	Park Heights, Woking
+* source:	https://sketchfab.com/3d-models/park-heights-woking-4dff14e50bcc48e2a9b7d74dd76d61dd
+* author:	ATD-London (https://sketchfab.com/ATD-London)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Park Heights, Woking" (https://sketchfab.com/3d-models/park-heights-woking-4dff14e50bcc48e2a9b7d74dd76d61dd) by ATD-London (https://sketchfab.com/ATD-London) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
